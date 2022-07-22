@@ -1,5 +1,6 @@
 <template>
     this is my hello world vuetify page with extension .vue
+    for test, add this second line
 </template>
 
 <script>
